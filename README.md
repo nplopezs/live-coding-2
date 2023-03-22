@@ -37,3 +37,9 @@ En este reto reforzaras tus conocimientos en JavaScript, realizando una llamadas
     <!-- <a style="color:black;" href="https://danascript.github.io/the-ultimate-api-challenge-yes-no/" target="_blank" rel="noopener">Live Preview</a> -->
 </div>
 
+### Retro
+(Jesus Martinez Lopez)
+
+- Dar un repaso al tema de Apis, su uso y manipulacion
+- Repasar los eventos y su uso en particuar con el uso de los botones
+- El ejercicio quedo inconcluso se puede mejorar el tiempo de resolcion
